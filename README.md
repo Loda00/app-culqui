@@ -1,7 +1,7 @@
 # app-culqui-pwa
 
-This template should help get you started developing with Vue 3 in Vite.
-npm init vue@latest vue-folde
+Aplicación realizada sólo para mobile usando pinia para el manejo de estados
+*El token se puede poner y quitar desde el plugin del navegador, por defecto no se encuentra para cumplir el 401 del reto
 
 ## Recommended IDE Setup
 
